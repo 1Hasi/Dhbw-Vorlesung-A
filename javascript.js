@@ -1,5 +1,2 @@
-const fruit = {"apple"};
-const bag = {
-    [fruit]
-};
-console.log(bag) {};
+const sum = (a,b) => a + b ; console.log(sum(5, 3));
+
